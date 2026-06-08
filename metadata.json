@@ -1,0 +1,6 @@
+{
+  "name": "WorldModel",
+  "description": "AI-powered simulations of complex global systems, modeling relationships, predicting future cascading effects, and visualizing dependencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
